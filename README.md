@@ -1,1 +1,1 @@
-# front-end-workshop-docs
+A repository to collect the front end workshop lessons, tasks, tools.
