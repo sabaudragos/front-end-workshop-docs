@@ -1,0 +1,9 @@
+Angular Course 
+  - go over the Basics section 
+  
+Technical task
+  - create a new angular project
+  - remove the default data that comes with the new project (from the .html, .css file)
+  - add a new component called header. Add the title of the app to this component
+  - commit the changes and publish them in a repository on Github
+  WIP
