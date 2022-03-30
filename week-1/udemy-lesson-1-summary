@@ -1,0 +1,66 @@
+What is angular?
+    - angular is a javascript framework which allows you to create reactive Single-Page-Applications
+
+What is a Single Page Application?
+ - an app that can seem to have multiple pages, but is available at one address
+ - every change is rendered in the browser
+    - this gives the user a very reactive user experience 
+    - it allows you to create web apps that look and feel very fast, everything happens fast 
+    - if the user needs data from the server, you load the data in the background and the user never leaves this experience 
+ - the JavaScript changes the DOM so new data is shown to the user
+
+What is a DOM? 
+DOM = Document Object Model is a cross-platform and language-independent interface
+DOM is a model of a document with an associated API for manipulating it. 
+HTML is a markup language that lets you represent a certain kind of DOM in text.
+CSS is the style that is applied to the HTML document
+
+What is a CLI? 
+CLI = Command Line Interface
+
+A new version of Angular is released every 6 months
+
+Common Angular commands
+ - create a new project: ng new
+ - run the project with: ng serve
+ - angular runs on port: 4200 by default
+
+Where can you find all the dependencies of your project?
+In the package.json
+
+What is the structure of the package.json file?
+    - "dependencies" - the dependencies that the app needs to work correctly
+    - "devDependencies" - the dependencies only required for development
+
+What is node_modules used for? 
+    - is where all the dependencies declared in the package.json file were installed
+
+In the src -> app is the actual source code
+
+What is the structure of a component
+    - .html     - the template
+    - .css      - the styling file
+    - .ts       - a typescript file
+    - .spec.ts  - a file for tests
+
+Angular lets you mix static html and dynamic things
+
+What is TypeScript
+    - is a super set to JavaScript
+    - it offers more features than JavasScript, like:
+        - classes 
+        - interfaces
+        - strong typing
+    - Typescript code is compiled Javascript code by the CLI 
+
+
+@Component
+    - selector
+    - template
+    - styleUrls
+
+Types of binding in angular:
+    - Interpolation (one way binding) - {{title}}
+    - Property Binding (one way binding) - <button [disabled] ="isDisabled">I am a button</button>
+    - Event Binding (one way binding) - e.g. perform an action when a user cicks a button. (click) = "saveUser()"
+    - Two Way Binding - [(someProperty)]="value"
