@@ -2,7 +2,7 @@ Angular Course
   - go over the Basics section 
 
 CSS tutorial
- - only the box model for this wek 
+ - only the box model for this week 
    https://web.dev/learn/css/box-model/ 
   
 Technical task
@@ -10,4 +10,8 @@ Technical task
   - remove the default data that comes with the new project (from the .html, .css file)
   - add a new component called header. Add the title of the app to this component
   - commit the changes and publish them in a repository on Github
-  WIP
+  
+Second set of technical tasks:
+  - we need a new component to hold the main content of the page. Please create a new component called "main-content"
+  - we also need a footer. This will be similar to the header component, but will be located at the buttom of the page.
+  
