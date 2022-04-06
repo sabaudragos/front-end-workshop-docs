@@ -1,12 +1,20 @@
 Angular course
-  -
+  - go over the second part of The Basics
   
 CSS tutorial
-  - the selectors section only 
+  - go over the selectors section only 
     https://web.dev/learn/css/selectors/
-
+  - flexbox:
+      - the guide to flexbox is available at: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+      - go over the following sections:
+          - Background
+          - Basics and terminology 
+          - Flexbox properties
+          
 Tasks
-  - break up 10 mockups - TBD 
-  - create repositories for each page resulted from the mockup 
+  - slice 10 html templates/mockups - TBD (= To Be Defined)
+  - create repositories for each html and css file resulted from the mockup.
+  - the name of each repository should start with: slice-
+    e.g. slice-template-one
   - commit the changes and push to Github
-  WIP
+
