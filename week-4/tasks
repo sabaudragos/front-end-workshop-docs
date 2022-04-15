@@ -1,0 +1,34 @@
+Permanent links:
+- The guide to flexbox is available at: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- Learn CSS https://web.dev/learn/css/
+- Angular course: https://www.udemy.com/course/the-complete-guide-to-angular-2/
+
+Angular course
+  - stay at the Basics  
+  
+CSS tutorial
+  - re-read the selectors section: https://web.dev/learn/css/selectors/
+  - re-read the flexbox guide, the 3 sections:
+      - the guide to flexbox is available at: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+      - go over the following sections:
+          - Background
+          - Basics and terminology 
+          - Flexbox properties
+          
+Tasks
+  - angular related: 
+      - create an input field in the main.component.html
+      - add a key event to the input field, using event binding:
+          e.g. (keyup)="onKey($event)" 
+      - let's add 1 more key event:
+          - create another input field and create an event binding only when the user presses Enter. Use the (keyup.enter) event.
+      - more examples can be found here: https://angular.io/guide/user-input
+      
+  - css related:
+      - slice the remaining of the 10 html templates/mockups (7 through 10)
+      - slice 5 real html templates (TBD)
+      - as with the other templates:
+          - create repositories for each html and css file resulted from the mockup.
+          - the name of each repository should start with: slice-
+             e.g. slice-template-one
+          - commit the changes and push to Github
