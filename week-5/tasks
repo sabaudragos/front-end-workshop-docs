@@ -1,0 +1,14 @@
+
+
+Tasks
+  - angular + css
+    - slice 5 html templates and integrate them in 5 angular projects
+      - for each template create a new angular project. Name them something like: easter-project-one, easter-project-two ... and so on
+      - in each angular project create a new component called "register". The template should go into this component. Similar to spring-project
+      - publish each project on github
+      - here are the 5 templates:
+        1. https://colorlib.com/etc/regform/colorlib-regform-20/
+        2. https://colorlib.com/etc/regform/colorlib-regform-15/
+        3. https://storage.googleapis.com/theme-vessel-items/checking-sites/oddo-2-html/HTML/main/register-21.html
+        4. https://storage.googleapis.com/theme-vessel-items/checking-sites/logdy-html/HTML/main/register-17.html
+        5. https://dribbble.com/shots/5964241-Free-Google-Material-Design-HTML-Login-Template/attachments/11159168?mode=media 
