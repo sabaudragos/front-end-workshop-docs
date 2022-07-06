@@ -1,0 +1,13 @@
+User role:
+  - Admin
+  - User
+
+User stories:
+  1. As an admin I want to be able to add a company 
+  2. As an admin I want to be able to add a new project and assign it to a company. A project should have sprints and a backlog.
+  3. As an admin I want to be able to add a new user and assign it to a company and to a project
+  4. As an admin I want to be able to create a sprint
+  5. As an admin I want to be able to add a
+  
+  4. 
+  
