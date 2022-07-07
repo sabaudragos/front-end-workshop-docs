@@ -10,4 +10,26 @@ User stories:
   5. As an admin I want to be able to add a
   
   4. 
-  
+
+Company details:
+ - name
+ - address 
+ - city
+ - country 
+ - phone
+ - registration number 
+ - email 
+ - VAT number
+ - administrator list 
+
+Project details 
+ - name
+ - description 
+ - administrator list
+ - user list 
+ 
+User details 
+ - first name 
+ - second name 
+ - email 
+
