@@ -1,0 +1,19 @@
+1. 
+Creaza o clasa cu numele Month, care sa aiba 2 variabile la nivel de clasa: 
+    - name de tip string (numele lunii, ex. august)
+    - monthNumber int (nr lunii, ex. martie are 3)
+ 
+Creeaza apoi o clasa JavaFive in care ai metoda main. In main creeaza un array de obiecte de tip Month cu lunile anului.
+ Array-ul va avea deci 12 obiecte de tip Month;
+ 
+ Apoi creeaza o metoda noua in JavaFive care ia ca parametru array-ul definit mai sus si un numar. Metoda va parcurge 
+ array-ul si daca gaseste un obiect care are numarul trimis atunci afiseaza numele lunii;
+ 
+ Semnatura va fi cam asa: private static void monthNumberCheck(String[] monthArray, int numberToCheck)
+ 
+ Similar, creeaza o noua metoda monthNameToCheck(String[] monthArray, String monthName) care va parcurge array-ul si 
+ va afisa numarul lunii daca gaseste numele metodei
+ 
+Informatii despre obiecte si clase gasesti aici: 
+  - https://www.w3schools.com/java/java_classes.asp
+  - https://www.w3schools.com/java/java_class_attributes.asp
