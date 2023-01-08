@@ -1,3 +1,10 @@
+2.
+Creeaza o clasa Employee care sa aiba urmatoarele field-uri: firstName, secondName, age, jobName, jobDescription
+Creeaza apoi o clasa JavaSix care sa aiba "public static void main(String[] args)" in ea.
+In JavaSix mai creeaza o metoda: private static void listEmpoloyeesWhoHaveRetirement(Employee[] employeeArray, int retirementAge). Metoda asta va parcurge emploeeArray si va afisa firstName si secondName al angajatului care are varsta egala cu retirementAge.  
+In JavaSix creeaza inca o metoda private static void listEmpoloyeesWhoAreClosToRetirement(Employee[] employeeArray, int retirementAge). Ca si metoda precedenta, metoda asta va parcurge employeeArray, dar va afisa doar angajatii care au varsta mai mica cu cel mult 10 ani fata de retirment age. Foloseste while in loc de for
+
+
 1. 
 Creaza o clasa cu numele Month, care sa aiba 2 variabile la nivel de clasa: 
     - name de tip string (numele lunii, ex. august)
