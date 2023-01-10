@@ -1,4 +1,8 @@
-4. Problema 3 dar implementata cu while 
+5. Clasa JavaEight. Creează o metodă showInReverse(int[] intArray) care primește ca parametru un array de integers si va afișa array ul in sens invers. 
+Creează încă o metodă care va face același lucru dar cu while în loc de for. 
+Ex. [1,2,3,4,5] va afișa 5,4,3,2,1
+
+4. Clasa JavaSeven. Problema 3 dar implementata cu while 
 
 3. Ai in array cu elemente care se repetă. Afișează elementele duplicat. 
 De ex la un array ca {1,2,3,4,5,6,2}  va fi afișat 2
