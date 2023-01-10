@@ -1,3 +1,6 @@
+3. Ai in array cu elemente care se repetă. Afișează elementele duplicat. 
+De ex la un array ca {1,2,3,4,5,6,2}  va fi afișat 2
+
 2.
 Creeaza o clasa Employee care sa aiba urmatoarele field-uri: firstName, secondName, age, jobName, jobDescription
 Creeaza apoi o clasa JavaSix care sa aiba "public static void main(String[] args)" in ea.
