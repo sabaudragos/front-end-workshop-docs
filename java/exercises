@@ -1,3 +1,25 @@
+10. Write a Java program to multiply corresponding elements of two arrays of integers.
+Sample Output:
+Array1: [1, 3, -5, 4]                                                 
+Array2: [1, 4, -5, -2]                                                     
+Result: 1 12 25 -8
+
+9. Write a Java program to find the largest element between first, last, and middle values from an array of integers (even length). 
+Sample Output:
+Original Array: [20, 30, 40, 50, 67]                                   
+Largest element between first, last, and middle values: 67 
+
+8. Write a Java program to test that a given array of integers of length 2 contains a 4 or a 7.
+Sample Output:
+Original Array: [5, 7]                                                 
+true 
+
+7. Write a Java program to test if the first and the last element of an array of integers are same. The length of the array must be greater than or equal to 2.
+Test Data: array = 50, -20, 0, 30, 40, 60, 10
+Sample Output: false
+
+6. Creeaza o metoda care sa verifice daca un numar este prim. Foloseste while pentru implementare.
+
 5. Clasa JavaEight. Creează o metodă showInReverse(int[] intArray) care primește ca parametru un array de integers si va afișa array ul in sens invers. 
 Creează încă o metodă care va face același lucru dar cu while în loc de for. 
 Ex. [1,2,3,4,5] va afișa 5,4,3,2,1
