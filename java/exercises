@@ -1,3 +1,19 @@
+
+
+13. Write a Java program to test if an array of integers contains an element 10 next to 10 or an element 20 next to 20
+ex. 1. numberArray = {10, 10, 1, 2}, result: array-ul contine 10 langa 10
+ex. 2. numberArray = {1, 2, 3, 4, 20, 20}, result: array-ul contine 20 langa 20
+ex. 3. numberArray = {1, 2, 3, 10, 10, 2, 5, 20, 20}, result: array-ul contine 10 langa 10 si 20 langa 20
+ex. 4. numberArray = {10, 1, 10, 20, 3, 4, 6, 20 }, result: array-ul nu contine perechi de 10 sau 20
+
+
+12. Write a Java program to count the number of even and odd elements in a given array of integers
+ex. numberArray = {1, 2, 3, 4, 5, 10, 20, 25}
+sumEvenNumbers = 36
+sumOddNumbers = 34 
+
+11. Write a Java program than read an integer and calculate the sum of its digits and write the number of each digit of the sum in English
+
 10. Write a Java program to multiply corresponding elements of two arrays of integers.
 Sample Output:
 Array1: [1, 3, -5, 4]                                                 
