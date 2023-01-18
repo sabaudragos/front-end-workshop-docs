@@ -1,4 +1,4 @@
-
+14. Write a Java program to test if an array of integers contains an element 10 next to 10 or an element 20 next to 20, but not both. 
 
 13. Write a Java program to test if an array of integers contains an element 10 next to 10 or an element 20 next to 20
 ex. 1. numberArray = {10, 10, 1, 2}, result: array-ul contine 10 langa 10
