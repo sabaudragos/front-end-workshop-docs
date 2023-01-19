@@ -1,3 +1,17 @@
+19. Write a Java program to find the longest string in an array of strings
+ex. {"abc", "abcds", "abcdpew", "asa"}
+result: "abcdpew"
+
+18. Write a Java program to get the first occurrence (Position starts from 0.) of a string within a given string
+ 
+17.Write a Java program to check if a positive number is a palindrome or not.
+ex. Input a positive integer: 151
+result: 151 is a palindrome number
+
+16. Write a Java program to check if the number of 10s is greater than number to 20s in a given array of integers. 
+
+15. Write a Java program to check if there is a 10 in a given array of integers with a 20 somewhere later in the array.
+
 14. Write a Java program to test if an array of integers contains an element 10 next to 10 or an element 20 next to 20, but not both. 
 
 13. Write a Java program to test if an array of integers contains an element 10 next to 10 or an element 20 next to 20
