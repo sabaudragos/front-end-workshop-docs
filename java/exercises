@@ -1,3 +1,18 @@
+23. Write a program which prints "ONE", "TWO",... , "NINE", "OTHER" if the int variable is 1, 2,... , 9, or other, respectively. Use (a) a "nested-if" statement; (b) a "switch-case-default" statement.
+ex. the method parameter is 3, then will print THREE 
+
+22. Write a method that returns the nth element of the Fibonacci Sequence
+The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,...
+The next number is found by adding up the two numbers before it.
+Assume that indexes start at zero, e.g., fib(0) = 0, fib(1) = 1, ...
+ex. n=5 will print 3
+
+21. write a method that will print the nth prime element of an array.
+ex. 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 and n=4 will print 7
+
+20. Write a method that prints the nth odd element of a list.
+ex. 1, 2, 3, 4, 5, 6, 7, 8 - and n=3 then it will print 5 (al treilea numar impar) 
+
 19. Write a Java program to find the longest string in an array of strings
 ex. {"abc", "abcds", "abcdpew", "asa"}
 result: "abcdpew"
